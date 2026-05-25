@@ -67,7 +67,7 @@
 name: Ahmad Nabi Sultan
 role: DevOps / Cloud Engineer
 level: Senior
-location: ISLAMABAD, PAKISTAN   # EDIT
+location: ISLAMABAD, PAKISTAN 
 focus:
   - Infrastructure as Code
   - Kubernetes & container orchestration
@@ -160,7 +160,7 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
   <sub>GitOps, operators, multi-cluster</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt=""/><br/>
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="48" height="48" alt=""/><br/>
   <strong>AI Infrastructure</strong><br/>
   <sub>Agents, LLM ops, GPU workloads</sub>
 </td>
@@ -303,20 +303,11 @@ EDIT: Replace YOUR_USERNAME and repo names with your actual projects
 
 <!-- EDIT: Replace all placeholder URLs -->
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/ansultan">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ansultan007@example.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://YOUR_PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-  <img src="https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/><br/>
@@ -350,6 +341,6 @@ EDIT: Replace YOUR_USERNAME and repo names with your actual projects
 
 <br/><br/>
 
-<sub>© 2025 Ahmad · DevOps & Cloud Engineer</sub>
+<sub>© 2026 Ahmad · DevOps & Cloud Engineer</sub>
 
 </div>
