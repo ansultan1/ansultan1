@@ -83,10 +83,8 @@ currently:
 </td>
 <td width="45%" valign="top" align="center">
 
-<!-- Coding GIF: replace with your preferred asset -->
-<!-- Source: https://github.com/abhisheknaiidu/awesome-github-profile-readme#gif -->
-
-<img src="https://media.giphy.com/media/qgwwggXlvP803ht0om/giphy.gif" width="280" alt="Cloud infrastructure animation"/>
+<!-- Dev GIF: GitHub-hosted (Giphy often shows "content not available" on profile READMEs) -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4a2e-9c78-fe7eaa0677d4.gif" width="280" alt="Developer at work animation"/>
 
 <br/>
 
@@ -114,8 +112,15 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
 
 ## Tech Stack
 
-<h3 align="center">Cloud & Platform</h3>
-<p align="center">
+<h3>Languages & Scripting</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+</p>
+
+<h3>Cloud & Platform</h3>
+<p>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -125,23 +130,16 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-<h3 align="center">CI/CD & Automation</h3>
-<p align="center">
+<h3>CI/CD & Automation</h3>
+<p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
 </p>
 
-<h3 align="center">Languages & Scripting</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
-</p>
-
-<h3 align="center">Data & Observability</h3>
-<p align="center">
+<h3>Data & Observability</h3>
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
@@ -157,22 +155,22 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/48/kubernetes.png" alt="Kubernetes"/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt=""/><br/>
   <strong>Kubernetes</strong><br/>
   <sub>GitOps, operators, multi-cluster</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI Infra"/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt=""/><br/>
   <strong>AI Infrastructure</strong><br/>
   <sub>Agents, LLM ops, GPU workloads</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/48/cloud.png" alt="Platform"/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt=""/><br/>
   <strong>Platform Engineering</strong><br/>
   <sub>IDP, golden paths, self-service</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/48/cloud-sync.png" alt="Cloud Native"/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt=""/><br/>
   <strong>Cloud-Native Tooling</strong><br/>
   <sub>IaC, service mesh, observability</sub>
 </td>

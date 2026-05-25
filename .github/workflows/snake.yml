@@ -42,3 +42,5 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "chore: update contribution snake [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
