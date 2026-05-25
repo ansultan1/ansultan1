@@ -223,8 +223,9 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
 
 <br/>
 
-<!-- ─── FEATURED PROJECTS ───────────────────────────────────────────────────── -->
-<!-- EDIT: Replace placeholder links with your actual repos -->
+<!--
+─── FEATURED PROJECTS (uncomment when ready) ─────────────────────────────────
+EDIT: Replace YOUR_USERNAME and repo names with your actual projects
 
 ## Featured Projects
 
@@ -233,7 +234,6 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
 <td width="50%" valign="top">
 
 ### Kubernetes Projects
-<!-- EDIT: repo name + description -->
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=k8s-platform-toolkit&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/k8s-platform-toolkit)
 
 > Helm charts, cluster bootstrap, and GitOps workflows for production K8s.
@@ -269,6 +269,7 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
 </table>
 
 <br/>
+-->
 
 <!-- ─── DEVOPS TOOLS ────────────────────────────────────────────────────────── -->
 <!-- Skill icons: https://github.com/tandpfun/skill-icons -->
