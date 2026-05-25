@@ -188,13 +188,13 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ansultan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=ansultan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" alt=""/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=ansultan1&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=ansultan1&theme=tokyonight&hide_border=true" height="165" alt=""/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansultan1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=ansultan1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt=""/>
 
 <br/>
 
