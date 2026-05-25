@@ -293,15 +293,14 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
 <div align="center">
 
 <!-- Random dev quote: https://github.com/PyGithub/PyGithub · via API -->
-<!-- EDIT: No setup required — updates on each README load -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt=""/>
 
 <br/><br/>
 
 <!-- WakaTime: https://github.com/anuraghazra/github-readme-stats#wakatime-stats-options -->
 <!-- SETUP: Add WAKATIME_API_KEY to repo secrets + enable in stats URL -->
 <!--
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt=""/>
 -->
 
 <!-- Spotify: https://github.com/kittinan/spotify-github-profile -->
@@ -311,7 +310,7 @@ My interests extend into **AI agents** and **infrastructure automation** — usi
 -->
 
 <!-- GitHub trophy: https://github.com/ryo-ma/github-profile-trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ansultan1&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%" alt=""/>
 
 </div>
 
