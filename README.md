@@ -83,8 +83,8 @@ currently:
 </td>
 <td width="45%" valign="top" align="center">
 
-<!-- Dev GIF: GitHub-hosted (Giphy often shows "content not available" on profile READMEs) -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4a2e-9c78-fe7eaa0677d4.gif" width="280" alt="Developer at work animation"/>
+<!-- Dev GIF: hosted in this repo (assets/developer.gif) — reliable on GitHub -->
+<img src="https://raw.githubusercontent.com/ansultan1/ansultan1/main/assets/developer.gif" width="280" alt="Developer at work animation"/>
 
 <br/>
 
